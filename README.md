@@ -30,7 +30,7 @@ The main menu, where the user selects an option:
 
 ### 2. Adding a New Book
 The prompt when adding a new book:  
-![Add Book](![Image](https://github.com/user-attachments/assets/a7c7b8b5-2a31-434c-bdf6-33c1229324c7)
+![Add Book]![Image](https://github.com/user-attachments/assets/4c9a0602-4e79-4a87-8dc1-488894a2374c)
 )
 
 ### 3. Viewing the List of Books
