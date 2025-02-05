@@ -40,7 +40,7 @@ The output when viewing the list of books:
 ### 4. Borrowing and Returning a Book
 The process of borrowing and returning a book:  
 ![Borrow and Return]![Image](https://github.com/user-attachments/assets/5010d034-4517-44f9-81da-2d922bbdabcf)
-)
+)![Image](https://github.com/user-attachments/assets/a7367d3a-fea1-4939-919d-96098dcc9d41)
 
 ## How to Run the System  
 To run the Library Management System locally, follow these steps:
