@@ -53,10 +53,11 @@ To run the Library Management System locally, follow these steps:
 2. Navigate to the project folder:
    - Change to the project directory:
      bash
-     cd library-management-system
+     cd Library-Management-System
      
 3. Run the Application:
    - Compile and run the Library Management System in your IDE or command line:
      bash
      javac LibraryManagementSystem.java
+     
      java LibraryManagementSystem
