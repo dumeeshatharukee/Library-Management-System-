@@ -58,6 +58,7 @@ To run the Library Management System locally, follow these steps:
 3. Run the Application:
    - Compile and run the Library Management System in your IDE or command line:
      bash
+     
      javac LibraryManagementSystem.java
      
      java LibraryManagementSystem
